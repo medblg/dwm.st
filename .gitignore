@@ -1,2 +1,7 @@
 # exclude all patches ending with .diff
 *.diff
+patches/
+x.o
+st.o
+st
+config.h
