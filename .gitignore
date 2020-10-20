@@ -1,0 +1,2 @@
+# exclude all patches ending with .diff
+*.diff
