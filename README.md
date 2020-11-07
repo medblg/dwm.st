@@ -12,7 +12,7 @@ st - simple terminal
 
 #### todo:
 - [ ] vim like keys...
-- [ ] handle the dellkey !, the regular patch just replace it with BS
+- [ ] handle the dellkey !, the regular patch just replace it with BS and this is just annoying
 
 
 
